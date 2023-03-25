@@ -2,7 +2,7 @@
   "name": "frontned-al-buraq-press",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/homepage",
+  "homepage": "https://al-buraq-frontend.vercel.app/homepage",
   "engines": {
     "node": "14.21.2",
     "npm": "6.14.17"
