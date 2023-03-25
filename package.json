@@ -4,7 +4,8 @@
   "private": true,
   "homepage": "/homepage",
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=16.0.0",
+    "npm": ">= 8.0.0"
   },
   "dependencies": {
     "@emotion/react": "^11.10.5",
